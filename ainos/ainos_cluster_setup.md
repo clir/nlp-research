@@ -96,3 +96,5 @@ Kill a running task
     4. Paste the all fingerprint info copied from your local machine
     5. chmod 700 ~/.ssh
     6. chmod 640 ~/.ssh/authorized_keys
+
+> Last updated by [Yu-Hsin (Henry) Chen](https://github.com/henryYHC)
