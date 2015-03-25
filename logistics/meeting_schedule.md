@@ -2,13 +2,14 @@
 ## Spring, 2015
 * Feb 2nd - Safoora: word embedding
 * Feb 9th - Denis: relation extraction
-* Feb 16th - Tomasz and Henry: question answering
+* Feb 16th - Tomasz: question answering - state of the art, [slides](http://www.mathcs.emory.edu/~tjurczy/qa/QAPresentation.pdf)
 * Feb 23rd - Discussion
 * March 2nd - No meeting
 * March 9th - Spring break
-* March 16th - Johnny and Mike - Sentiment Analysis
-* March 23rd - Meera and Alex - Coreference
-* March 30th - Safoora - Optimization (?)
+* March 16th - No meeting (faculty candidate talk)
+* March 23rd - Johnny and Mike - Sentiment Analysis
+* March 30th - Meera and Alex - Coreference
+* April 6th - Safoora - Optimization (?)
 
 ## Fall, 2014
 * Induced sub-tree generation (11/03/2014)
