@@ -1,6 +1,9 @@
 # NLP Research
 Natural language processing research group at Emory University: [view website](http://nlp.mathcs.emory.edu/).
 
+### Subfields
+* [Question Answering](qa/)
+
 ### Schedule
 * [Meeting schedule](logistics/meeting_schedule.md)
 
