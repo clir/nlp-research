@@ -1,1 +1,1 @@
-[Question answering section](qa/resources.md)
+* [Question answering section](qa/resources.md)
