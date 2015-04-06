@@ -8,8 +8,8 @@
 * March 9th - Spring break
 * March 16th - No meeting (faculty candidate talk)
 * March 23rd - Johnny and Mike - Sentiment Analysis
-* March 30th - Meera and Alex - Coreference
-* April 6th - Safoora - Optimization (?)
+* March 30th - Meera - Deep Learning with CV
+* April 6th - Henry - Coreference, [sildes](../presentations/Coreference Resoultion_20150406.pdf)
 
 ## Fall, 2014
 * Induced sub-tree generation (11/03/2014)
